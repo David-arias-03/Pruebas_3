@@ -42,7 +42,7 @@
 			<version>2.27</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2 -->
+		<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2 Preubas3-->
 		<dependency>
 			<groupId>org.glassfish.jersey.inject</groupId>
 			<artifactId>jersey-hk2</artifactId>
